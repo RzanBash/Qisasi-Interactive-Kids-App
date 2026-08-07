@@ -132,7 +132,7 @@ Qisasi relies on a fully local SQLite database designed around relational princi
 
 ### 📐 Entity Relationship Diagram (ERD)
 
-![Qisasi Database ERD Schema](screens/db.png)
+![Qisasi Database ERD Schema](screens/db.jpg)
 
 ---
 
